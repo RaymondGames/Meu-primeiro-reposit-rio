@@ -1,5 +1,6 @@
 # Meu-primeiro-repositorio
 
 1 - Exercício de clonagem de arquivos
-2 - Teste de autenticação via SSH.
+2 - Teste de autenticação via SSH - 1 
+2 - Teste de autenticação via SSH - 2
 
