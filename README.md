@@ -5,3 +5,4 @@
 3 - Teste de autenticação via SSH - 2 <br>
 
 4 - Estou treinando o que eu aprendi em aula com autenticação via SSH. <br>
+5 - Fiz o processo de gerar chave novamente <br>
