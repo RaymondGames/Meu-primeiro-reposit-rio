@@ -5,5 +5,3 @@
 3 - Teste de autenticação via SSH - 2 <br>
 
 4 - Estou treinando o que eu aprendi em aula com autenticação via SSH. <br>
-
-5 - Gerei o código via SSH pública e vou tentar subir no meu arquivo README. <br>
